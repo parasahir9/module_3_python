@@ -1,0 +1,49 @@
+1)-What is List? How will you reverse a list?
+ANS--Reverse Array using the reversed() and reverse() built-in function.
+
+2)-Differentiate between append () and extend () methods? 
+ANS--The append() method in the Python programming language adds an item to a
+     list that already exists whereas the extend() method adds each of the 
+     iterable elements which is supplied as a parameter to the end of the original
+     list.
+
+3)-How will you compare two lists? 
+ANS--Using list. sort() and == operator
+
+4)-What is tuple? Difference between list and tuple. 
+ANS--The primary difference between tuples and lists is that tuples are immutable 
+     as opposed to lists which are mutable.
+
+5)-How will you create a dictionary using tuples in python?
+ANS--Print the original tuples using the print() function and str() function to 
+     convert them into strings
+
+6)-How Do You Traverse Through A Dictionary Object In Python? 
+ANS--Using dict. items() Method. ...
+     Using Keys() Method. To iterate through the dictionary's keys, utilise the 
+     keys()method that is supplied by the dictionary. ...
+     Using Values() Method. ...
+     Iterating with Index. ...
+     Iterating Over Dictionary In Alphabetical Order.
+
+7)--How Do You Check The Presence Of A Key In A Dictionary?
+ANS--using the Inbuilt method keys()
+
+8)--Why Do You Use the Zip () Method in Python?
+ANS--The zip() function in Python is used to combine two or more iterable 
+     dictionaries into a single iterable, where corresponding elements from the 
+     input iterable are paired together as tuples.
+
+9)--How Many Basic Types Of Functions Are Available In Python?
+ANS-There are mainly two types of functions in Python. 
+
+
+
+
+
+
+
+
+
+
+
